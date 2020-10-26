@@ -13,7 +13,7 @@ There are six major ways that I am going to breakdown the differences for Pybers
 	7.) Average Fare per Driver
 Using these 6 categories, I can breakdown and see which categories are popular and where there are disparities between each city type.
 Take a look at the photo below and see the breakdown for each city type:
-	<img src="https://github.com/Changscorner/PyBer_Analysis/blob/main/Resources/breakdown.png?raw=true"
+	<img src="https://github.com/Changscorner/PyBer_Analysis/blob/main/Resources/breakdown.png?raw=true">
 	
 ### Suburban Cities
 
