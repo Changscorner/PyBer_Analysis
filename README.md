@@ -12,11 +12,14 @@ There are six major ways that I am going to breakdown the differences for Pybers
 	4.) Total Fares
 	5.) Average Fare per Rides
 	7.) Average Fare per Driver
-	
+
 Using these 6 categories, I can breakdown and see which categories are popular and where there are disparities between each city type.
 
 Take a look at the photo below and see the breakdown for each city type:
 	<img src="https://github.com/Changscorner/PyBer_Analysis/blob/main/Resources/breakdown.png?raw=true">
+
+Also lets a look at an overview for total fare by city type for a 4 month time period.
+	<img src="https://github.com/Changscorner/PyBer_Analysis/blob/main/Analysis/Total%20Fare%20by%20City%20Type%20Chart.png?raw=true">
 	
 ### Suburban Cities
 According to the photo above, in suburban cities there are a total of 8,570 drivers, but only 625 rides were given. The total amount of fares taken in was $19,356.33 with an average of around $30.97 per ride. Since there are 8,570 drivers that amounts to around $2.26 received per driver. This data is showing that for suburban cities there are a lot more drivers compared to the amount of people looking for a ride. Why is that? One possible reason is that suburban areas are not known to have a lot of public transportation services so it would be a good assumption that most people that live in the suburd owns a vehicle. Since they own a vehicle there is less of a demand for rides there.
