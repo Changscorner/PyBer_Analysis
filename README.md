@@ -43,3 +43,4 @@ Another way to increase the fares earned by drivers is to decrease the amount of
 
 ### More Promotion to some existing riders
 The third way to increase fares and address the disparity between riders and drives is to offer promotions to existing users. While offering these promotions may lead initially to a decrease in fares for both the company and the driver it can serve to make the rider more used to using the service and more inclined in the future to continue using the service. So these promotions should not be targetted at power users of the service but more the riders that only use the service occassionally or only a few times.
+ 
